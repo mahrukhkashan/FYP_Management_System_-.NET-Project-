@@ -32,10 +32,9 @@ This **Final Year Project (FYP) Management System** is a web-based application b
 
 ## **🛠️ Technologies Used**  
 - **Backend:** ASP.NET Core MVC, C#  
-- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript  
+- **Frontend:** Forms 
 - **Database:** MS SQL Server  
 - **Authentication:** ASP.NET Core Identity  
-- **Deployment:** Azure (optional)  
 
 ---
 
